@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="@drawable/wallpaper3"
     tools:context=".MainActivity3">
 
     <ImageView
@@ -30,9 +31,11 @@
 
     <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="350dp"
         android:layout_gravity="end"
-        android:layout_marginTop="40dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
         tools:layout_editor_absoluteX="1dp"
         tools:layout_editor_absoluteY="375dp">
 
